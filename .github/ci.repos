@@ -1,0 +1,5 @@
+repositories:
+  kanata_common:
+    type: git
+    url: https://github.com/YumaMatsumura/kanata_common.git
+    version: main
